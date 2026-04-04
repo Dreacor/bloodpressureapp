@@ -1,9 +1,9 @@
 # Verenpaineen mittauksen keskiarvot 
 
 def main():
-    yla_aamu = [121, 119, 124, 117, 118, 115]
+    yla_aamu = [121, 119, 124, 117, 118, 115, 119]
     yla_ilta = [135, 125, 112, 125, 110]
-    ala_aamu = [92, 71, 80, 82, 75, 70]
+    ala_aamu = [92, 71, 80, 82, 75, 70, 78]
     ala_ilta = [79, 78, 76, 85, 73]
 
     yla_paine_aamu = 0
